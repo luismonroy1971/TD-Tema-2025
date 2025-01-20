@@ -9,7 +9,7 @@ const Presentation = () => {
       <Card className="relative overflow-hidden min-h-[400px]">
         <div className="absolute inset-0">
           <Image
-            src="/images/TD-Principal.webp" // Aquí puedes usar tu propia imagen
+            src="/images/portada.jpg" // Aquí puedes usar tu propia imagen
             alt="Digital Transformation"
             fill
             className="object-cover opacity-20"
@@ -51,7 +51,7 @@ const Presentation = () => {
               </ul>
             </div>
           </div>
-          <div className="relative h-[600px]">
+          <div className="relative h-[300px]">
             <Image
               src="/images/TD2-Principal.webp"
               alt="Digital Transformation Concept"
@@ -152,7 +152,7 @@ const Presentation = () => {
               ))}
             </div>
           </div>
-          <div className="relative h-[400px]">
+          <div className="relative h-[350px]">
             <Image
               src="/images/TD.webp"
               alt="Benefits of Digital Transformation"
